@@ -1,2 +1,2 @@
-def add(numberOne, numberTwo):
-    print(numberOne - numberTwo)
+def minus(numberOne, numberTwo):
+    return(int(numberOne) - int(numberTwo))
